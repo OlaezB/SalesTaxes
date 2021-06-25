@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "Name": "Chocolate bar",
+    "Price": 0.85,
+    "Classes": [ "Food" ]
+  },
+  {
+    "Id": 2,
+    "Name": "Music CD",
+    "Price": 14.99,
+    "Classes": []
+  },
+  {
+    "Id": 3,
+    "Name": "Tales book",
+    "Price": 12.49,
+    "Classes": [ "Book" ]
+  },
+  {
+    "Id": 4,
+    "Name": "Headache pills",
+    "Price": 9.75,
+    "Classes": [ "Medical" ]
+  },
+  {
+    "Id": 5,
+    "Name": "Imported Shirt",
+    "Price": 4.99,
+    "Classes": [ "Imported" ]
+  },
+  {
+    "Id": 6,
+    "Name": "Imported Dog Food",
+    "Price": 10.00,
+    "Classes": [ "Pets", "Imported" ]
+  },
+  {
+    "Id": 7,
+    "Name": "Cat Food",
+    "Price": 6.79,
+    "Classes": [ "Pets" ]
+  },
+  {
+    "Id": 8,
+    "Name": "Soap Bar",
+    "Price": 1.00,
+    "Classes": [ "Soap" ]
+  },
+  {
+    "Id": 9,
+    "Name": "Medical Bandage",
+    "Price": 4.30,
+    "Classes": [ "Medical" ]
+  },
+  {
+    "Id": 10,
+    "Name": "Bread loaf",
+    "Price": 1.70,
+    "Classes": [ "Food" ]
+  },
+  {
+    "Id": 11,
+    "Name": "Imported Tales book",
+    "Price": 5.30,
+    "Classes": [ "Book", "Imported" ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Basic tax",
+    "Rate": 0.1,
+    "Classes": [ "All" ],
+    "Exceptions": [ "Food", "Book", "Medical" ]
+  },
+  {
+    "Name": "Importation tax",
+    "Rate": 0.05,
+    "Classes": [ "Imported" ],
+    "Exceptions": []
+  },
+  {
+    "Name": "Pets tax",
+    "Rate": 0.1,
+    "Classes": [ "Pets" ],
+    "Exceptions": []
+  }
+]
